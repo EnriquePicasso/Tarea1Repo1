@@ -1,0 +1,6 @@
+# Ignoro todos los ficheros .jpg, jpeg y png
+*.jpg
+
+*.jpeg
+
+*.png
